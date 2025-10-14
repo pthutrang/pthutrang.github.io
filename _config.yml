@@ -1,6 +1,6 @@
 title: "Human thoughts in a world of abundant cognition"
 author: "Thu-Trang Pham"
-description: "Writings on the human element, consciousness, and AI safety" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+# description: "Writings on the human element, consciousness, and AI safety" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
@@ -8,12 +8,12 @@ description: "Writings on the human element, consciousness, and AI safety" # Thi
 # twitter_username: "twitteruser"
 github_username: "pthutrang"
 linkedin_username: "pham-thu-trang"
-#facebook_username: username
-#flickr_username: username
-#instagram_username: username
-#pinterest_username: username
-#youtube_username: username
-#googleplus_username: +username
+# facebook_username: username
+# flickr_username: username
+# instagram_username: username
+# pinterest_username: username
+# youtube_username: username
+# googleplus_username: +username
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
