@@ -4,7 +4,7 @@ description: "On the human element, consciousness, and AI safety" # This will sh
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-# email: "example@mail.com"
+email: "phamthutrang0317@mail.com"
 # twitter_username: "twitteruser"
 github_username: "pthutrang"
 linkedin_username: "pham-thu-trang"
@@ -40,3 +40,13 @@ defaults:
       type: post
     values:
       tags: Other
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name
+
+header_pages:
+  - about.md
+  - projects_index.md
+  - archive.md
